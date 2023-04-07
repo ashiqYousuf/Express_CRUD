@@ -2,7 +2,7 @@
 This is a simple CRUD (Create, Read, Update, Delete) project built using Node.js and the Express framework, with EJS (Embedded JavaScript) for the templating engine.
 
 ## Installation
-Clone this repository: git clone https://github.com/your-username/node-express-crud.git
+Clone this repository: git clone https://github.com/ashiqYousuf/Express_CRUD.git
 Navigate to the project directory
 Install the dependencies: npm install
 ## Usage
